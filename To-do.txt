@@ -1,0 +1,6 @@
+1. belajar best practice, cara simpen controller, model, view
+2. code js sama php perbdeaan 
+3. cronjob cara buat, dll
+4. routing dan bedain route api dan web di laravel
+5. buat connection db di postgress
+6. bikin crud
